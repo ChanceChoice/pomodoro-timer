@@ -21,3 +21,5 @@ D:\Chance\coding\01\PomodoroTimer\obj\Debug\net8.0-windows\refint\PomodoroTimer.
 D:\Chance\coding\01\PomodoroTimer\obj\Debug\net8.0-windows\PomodoroTimer.pdb
 D:\Chance\coding\01\PomodoroTimer\obj\Debug\net8.0-windows\PomodoroTimer.genruntimeconfig.cache
 D:\Chance\coding\01\PomodoroTimer\obj\Debug\net8.0-windows\ref\PomodoroTimer.dll
+D:\Chance\coding\01\PomodoroTimer\obj\Debug\net8.0-windows\App.baml
+D:\Chance\coding\01\PomodoroTimer\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
